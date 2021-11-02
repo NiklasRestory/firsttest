@@ -1,0 +1,14 @@
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\bin\Debug\netcoreapp3.1\IAmPlacingThisInGit.exe
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\bin\Debug\netcoreapp3.1\IAmPlacingThisInGit.deps.json
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\bin\Debug\netcoreapp3.1\IAmPlacingThisInGit.runtimeconfig.json
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\bin\Debug\netcoreapp3.1\IAmPlacingThisInGit.runtimeconfig.dev.json
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\bin\Debug\netcoreapp3.1\IAmPlacingThisInGit.dll
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\bin\Debug\netcoreapp3.1\IAmPlacingThisInGit.pdb
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\obj\Debug\netcoreapp3.1\IAmPlacingThisInGit.csproj.AssemblyReference.cache
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\obj\Debug\netcoreapp3.1\IAmPlacingThisInGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\obj\Debug\netcoreapp3.1\IAmPlacingThisInGit.AssemblyInfoInputs.cache
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\obj\Debug\netcoreapp3.1\IAmPlacingThisInGit.AssemblyInfo.cs
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\obj\Debug\netcoreapp3.1\IAmPlacingThisInGit.csproj.CoreCompileInputs.cache
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\obj\Debug\netcoreapp3.1\IAmPlacingThisInGit.dll
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\obj\Debug\netcoreapp3.1\IAmPlacingThisInGit.pdb
+C:\Users\nikla\Git\firsttest\IAmPlacingThisInGit\obj\Debug\netcoreapp3.1\IAmPlacingThisInGit.genruntimeconfig.cache
