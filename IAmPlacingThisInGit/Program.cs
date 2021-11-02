@@ -4,7 +4,7 @@ namespace IAmPlacingThisInGit
 {
     class Program
     {
-        static int randomNumber = 5;
+        static int randomNumber = 2;
 
         static void Main(string[] args)
         {
