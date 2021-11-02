@@ -9,6 +9,7 @@ namespace IAmPlacingThisInGit
         static void Main(string[] args)
         {
             Console.WriteLine("Random Number: " + RandomNumber());
+            Console.WriteLine("This is a chaaaange.");
         }
 
         static int RandomNumber()
