@@ -8,11 +8,13 @@ namespace IAmPlacingThisInGit
     {
         public int Age { get; set; }
         public string Name { get; set; }
+        public string Email { get; set; }
 
-        public Person(int age, string name)
+        public Person(int age, string name, string email)
         {
             this.Age = age;
             this.Name = name;
+            this.Email = email;
         }
     }
 }
